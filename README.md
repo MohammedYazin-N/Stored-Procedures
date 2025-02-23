@@ -4,7 +4,7 @@ This repository contains a **MySQL assignment on Stored Procedures**, covering t
 
 ### **Topics Covered:**  
 ✅ Creating and calling stored procedures  
-✅ Using `IN`, `OUT`` parameters  
+✅ Using `IN`, `OUT` parameters  
 ✅ Handling errors and exceptions   
 ✅ Working with cursors for multiple-row processing  
 ✅ Modifying and deleting stored procedures  
